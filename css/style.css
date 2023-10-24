@@ -66,7 +66,9 @@
 /* SECTION NO 1 */
 
 .section-1 {
-    background-color: #F2F2F2;
+    background-image: url(../images/background-image.jpg);
+    background-position: center right;
+    background-size: cover;
     height: 450px;
     padding: 0px;
 }
@@ -991,7 +993,7 @@
 .contact-image {
     background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)),
         url(../images/Contact-image-1.jpg);
-    background-position: center;
+    background-position: center left;
     background-size: cover;
 }
 
